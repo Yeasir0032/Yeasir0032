@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yeasir Rahaman 
+- 👋 Hi, I’m Syed Yeasir Rahaman 
 - 👀 I’m interested in ..
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...

@@ -3,6 +3,18 @@
 
 - 📖 Student of Aliah University Kolkata
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning
+  * **Solidity**
+  * **Ethereum**
+  * **NextJS**
 
-- 📫 How to reach me **sdyeasirrahaman@gmail.com**
+- 📫 Mail me at **sdyeasirrahaman@gmail.com**
+  <br>
+ ### I'm good at :
+  - ReactJS
+  - NodeJS
+  - Android studio
+  - Express Js
+  - Mongo DB
+  - Java
+  - Python

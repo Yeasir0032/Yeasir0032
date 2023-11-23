@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeasir Rahaman</h1>
-<h3 align="center">A passionate android Developer and Full stack Web developer from India</h3>
+<h3 align="center">A passionate Android Developer and Full stack Web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yeasir0032&color=blueviolet&style=for-the-badge" alt="Yeasir0032" /> </p>
 
 - 📫 How to reach me **sdyeasirrahaman@gmail.com**
